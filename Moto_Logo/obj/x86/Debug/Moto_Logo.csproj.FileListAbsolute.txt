@@ -9,3 +9,14 @@
 /mnt/c/Users/mhous/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Logo.csproj.CoreCompileInputs.cache
 /mnt/c/Users/mhous/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Boot_Logo_Maker.exe
 /mnt/c/Users/mhous/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Boot_Logo_Maker.pdb
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/bin/Debug/Moto_Boot_Logo_Maker.exe.config
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/bin/Debug/Moto_Boot_Logo_Maker.exe
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/bin/Debug/Moto_Boot_Logo_Maker.pdb
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Logo.csprojAssemblyReference.cache
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Logo.AboutBox1.resources
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Logo.Form1.resources
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Logo.Properties.Resources.resources
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Logo.csproj.GenerateResource.cache
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Logo.csproj.CoreCompileInputs.cache
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Boot_Logo_Maker.exe
+/home/mhous33/git/MotoBootLogoMaker/Moto_Logo/obj/x86/Debug/Moto_Boot_Logo_Maker.pdb

@@ -382,6 +382,7 @@ namespace Moto_Logo
         private void Form1_Load(object sender, EventArgs e)
         {
             Init_cboMoto("Custom",720,1280,4194304,0x3FFFFFFF);
+            Init_cboMoto("Moto G Stylus 5G", 1080, 2400, 9498624, (int)(LOGO.LOGO_BOOT | LOGO.LOGO_BATTERY | LOGO.LOGO_LOWPOWER | LOGO.LOGO_CHARGE));
             Init_cboMoto("Moto G Power", 1080, 2300, 5320704, (int)(LOGO.LOGO_BOOT | LOGO.LOGO_BATTERY | LOGO.LOGO_LOWPOWER | LOGO.LOGO_CHARGE));
             Init_cboMoto("Moto G(8) Power / Moto G Pro", 1080, 2300, 5160960, (int)(LOGO.LOGO_BOOT | LOGO.LOGO_BATTERY | LOGO.LOGO_LOWPOWER | LOGO.LOGO_CHARGE));
 /*
